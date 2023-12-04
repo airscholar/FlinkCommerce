@@ -1,0 +1,5 @@
+confluent-kafka==2.3.0
+Faker==20.1.0
+python-dateutil==2.8.2
+simplejson==3.19.2
+six==1.16.0
