@@ -47,4 +47,4 @@ The `DataStreamJob` class within the `FlinkCommerce` package serves as the main 
 - Additionally, it includes an Elasticsearch sink to index transaction data for further analysis.
 
 # Video
-[![Flink Ecommerce Analytics](https://img.youtube.com/vi/LSlt6iVI_9Y/0.jpg)](https://www.youtube.com/watch?v=LSlt6iVI_9Y)
+[![Flink Ecommerce Analytics](https://img.youtube.com/vi/deepQRXnniM/0.jpg)](https://youtu.be/deepQRXnniM)
